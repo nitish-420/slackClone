@@ -28,7 +28,7 @@ function Login() {
           src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg"
           alt=""
         />
-        <h1>Sign in to Geliştiren Kafalar</h1>
+        <h1>Sign in to Nitish Bhardwaj slack clone</h1>
         <Button onClick={signIn}>Sign in with Google</Button>
       </div>
     </div>
