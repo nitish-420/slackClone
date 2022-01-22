@@ -1,3 +1,4 @@
+# This is a basic clone with not that much functionality, made while learning firebase.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
